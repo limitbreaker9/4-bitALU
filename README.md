@@ -35,3 +35,18 @@ Each project demonstrates important concepts in digital electronics such as arit
 
 ---
 
+### 4. [4-bit Array Multiplier](./Array_Multiplier)
+- Implements a **parallel multiplication technique**  
+- Generates all partial products simultaneously and sums them using adders  
+- Provides fast multiplication but requires more hardware resources  
+- Demonstrates the concept of **combinational multipliers**  
+
+---
+
+### 5. [4-bit Add-Shift Multiplier](./Add_Shift_Multiplier)
+- Implements a **sequential multiplication technique**  
+- Uses shift-and-add logic with registers and control signals  
+- Takes multiple clock cycles but requires fewer resources  
+- Demonstrates the concept of **serial multipliers**  
+
+---
