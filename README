@@ -1,0 +1,10 @@
+# 4-bit Array Multiplier
+
+Implements a **parallel multiplier** (array/combinational multiplier) in Logisim Evolution.
+
+## Features
+- Generates all partial products simultaneously
+- Uses adders to sum the partial products
+- Fast operation, but requires more hardware
+
+
